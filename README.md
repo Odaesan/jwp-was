@@ -39,4 +39,4 @@
 - 온라인 코드 리뷰 과정 : [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
 - 자바지기님 교육사이트 : https://edu.nextstep.camp/
 - dong 이 만들다가 포기한 repo : https://github.com/d-h-k/WebServer
-- 유툽 힌트영상
+- **유툽 힌트영상** : https://youtube.com/playlist?list=PLqaSEyuwXkSqV88SwDxuY56xmj6KsmzRN
